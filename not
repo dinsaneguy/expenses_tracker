@@ -1,0 +1,3 @@
+mongodb+srv://boylord193:zP6aJDJX2b8fR4Az@cluster0.2yhcd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+D:\Projects\NodeJs\Project4\backend>pm install express dotenv cors mongoose 
